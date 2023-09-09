@@ -28,4 +28,4 @@ pip install tensorflow numpy matplotlib
 The dataset is from the BCI Competetion III, which can be found in the following link:
 
 ```bash
-https://www.bbci.de/competition/download/competition_iii/tuebingen/)https://www.bbci.de/competition/download/competition_iii/tuebingen/
+https://www.bbci.de/competition/download/competition_iii/tuebingen/
