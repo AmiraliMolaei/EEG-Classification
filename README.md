@@ -22,3 +22,10 @@ Before getting started, ensure you have the following dependencies installed:
 You can install these dependencies using the following command:
 ```bash
 pip install tensorflow numpy matplotlib
+```
+
+## Dataset
+The dataset is from the BCI Competetion III, which can be found in the following link:
+
+```bash
+https://www.bbci.de/competition/download/competition_iii/tuebingen/)https://www.bbci.de/competition/download/competition_iii/tuebingen/
