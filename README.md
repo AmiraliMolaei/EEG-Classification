@@ -6,11 +6,6 @@ This repository contains the code and resources for performing EEG (Electroencep
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Dataset](#dataset)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 Before getting started, ensure you have the following dependencies installed:
