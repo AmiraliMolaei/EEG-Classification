@@ -29,3 +29,5 @@ The dataset is from the BCI Competetion III, which can be found in the following
 
 ```bash
 https://www.bbci.de/competition/download/competition_iii/tuebingen/
+```
+The dataset consists of EEG (Electroencephalogram) recordings organized into individual trials. Each trial is based on different subjects, and each trial includes data from 64 EEG channels, where each of them include sampls for 3000 timepoints.
